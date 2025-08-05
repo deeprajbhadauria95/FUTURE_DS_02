@@ -43,4 +43,4 @@ To analyze Instagram ad campaign performance and create a dynamic Power BI dashb
 
 ## ✨ Author
 Deepraj Bhadauria  
-Future Interns | August 2025
+Amity University Gwalior, Madhya Pradesh | MCA'2026
